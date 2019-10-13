@@ -1,6 +1,6 @@
 # Clippy for Arma 3
 
-Hi! I'm Clippy, your personal battlefield-assistant!
+Hi! I'm Clippy, your personal battlefield-assistant! Find me in the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1876743064).
 
 ![clippy assistant](docs/img/clippy-assistant.png)
 
