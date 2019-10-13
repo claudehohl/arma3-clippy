@@ -48,7 +48,7 @@ In the Addon Builder, hit _PACK_.
 
 This has created _clippy-local\\addons\\Clippy.pbo_
 
-### Load your local Mod in Arma
+### Load your local mod in Arma
 
 In the Arma Launcher, click on _Local mod_:
 
