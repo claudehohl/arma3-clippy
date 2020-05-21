@@ -136,7 +136,7 @@ class RscTitles
             {
                 idc = -1;
                 type = 0;
-                style = 48; // picture
+                style = 0+48+2048; // picture
                 x = safeZoneX + safeZoneW * 0.72363282;
                 y = safeZoneY + safeZoneH * 0.51736112;
                 w = safeZoneW * 0.26660157;
@@ -160,7 +160,7 @@ class RscTitles
                 colorBackground[] = {0.5059,0.1412,0.7725,0};
                 colorText[] = {0,0,0,1};
                 font = "PuristaMedium";
-                sizeEx = (((((safezoneW / safezoneH) min 1.2) / 1.2) / 25) * 1);
+                sizeEx = 0.02 * SafeZoneH;
                 lineSpacing = 1.2;
             };
         };
